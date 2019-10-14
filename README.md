@@ -1,10 +1,11 @@
-# folio1
+# ポートフォリオ
 
-> Akihiro&#39;s Suzuki Portfolio
+Nuxtjs でポートフォリオを作成してみました。
+特に SPA じゃなければいけないページはまだないので、それを時間があるときに作成したいです。Skills のページに、vue-chartjs を使用してみたくらい。
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
